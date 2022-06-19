@@ -29,3 +29,5 @@ Dataframes of Vine and non-Vine reviews:
 ![image](https://user-images.githubusercontent.com/100803302/174489403-6c6e8470-d30a-42e2-918b-22c3a373ae39.png)
 
 Summary
+
+Based on the findings, the pool of Vine reviewers show slightly more positivity bias in their reviews than the pool of non-Vine members. However, this can be misleading because the total number of Vine and non-Vine reviewers is 31,830 and the total number of Vine reviewers is 285.  This means that all Vine reviewers make up less than 1% of reviews. Further analysis of randomly selected products, reviewed by both groups, may support that no bias can be concluded.
